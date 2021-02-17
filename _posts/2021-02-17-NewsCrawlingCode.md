@@ -1,3 +1,4 @@
+```python
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -23,3 +24,4 @@ driver.find_elements_by_css_selector(".JheGif.nDgy9d")[0].click()
 # elem.send_keys(Keys.RETURN)
 # assert "No results found." not in driver.page_source
 # driver.close()
+```
