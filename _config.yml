@@ -101,8 +101,8 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+   # - label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
       # url: "giwon.bae77@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
