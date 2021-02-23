@@ -283,5 +283,5 @@ defaults:
       related: true
 
 #Category생성
-category_dir: category/
-tag_dir: tag/
+#category_dir: category/
+#tag_dir: tag/
