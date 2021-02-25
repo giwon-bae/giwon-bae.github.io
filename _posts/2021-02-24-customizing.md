@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2021-02-24"
-excerpt: "블로그 커스터마이징"
+title: "블로그 커스터마이징"
+excerpt: "2021-02-24"
 
 categories:
   - Blog
