@@ -2,5 +2,7 @@
 main:
   - title: "Categories"
     url: /categories/
+  - title: "Python"
+    url: /categories/Python
   - title: "About"
     url: /about/
