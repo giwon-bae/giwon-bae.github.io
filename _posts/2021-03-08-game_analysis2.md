@@ -39,12 +39,12 @@ __(평가)__
 이러한 능력치들과 스킬 레벨을 포함해서 전투력이 산출된다.
 
 #### **3.4 토핑**
-<center><img src="https://user-images.githubusercontent.com/79121621/110277120-02d4c100-8018-11eb-9d2d-114c39e8c646.PNG" width="60%" height="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/79121621/110277120-02d4c100-8018-11eb-9d2d-114c39e8c646.PNG" width="50%" height="60%"></center>
 
 토핑은 10개의 종류와 세 개의 등급으로 나누어져 있다.  
 등급에 따라서 최대 6강, 9강, 12강까지 강화가 가능하며, 각 단계에서 추가 능력을 얻게 된다. 이 때 얻는 능력과 수치는 토핑의 종류와 등급에 따라서 다르며 그 중 랜덤으로 얻게 된다.
 
-<center><img src="https://user-images.githubusercontent.com/79121621/110275453-6957e000-8014-11eb-845a-c140db76cac5.PNG" width="60%" height="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/79121621/110275453-6957e000-8014-11eb-845a-c140db76cac5.PNG" width="50%" height="60%"></center>
 
 뿐만 아니라 이 강화는 등급에 따라서 확률이 다 다른데 고급이 다른 등급보다 압도적으로 확률이 낮다.  
 최고 스펙의 토핑을 얻기 위해서는 12강을 해야하고 각 추가 능력에서 원하는 종류와 수치를 얻어야하기 때문에 극악의 확률이다. 그리고 이러한 토핑을 착용할 수 있는 슬롯이 5개가 필요하다는 것을 잊지 말아야한다.  
