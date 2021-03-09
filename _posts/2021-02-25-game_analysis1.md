@@ -10,7 +10,7 @@ tags:
   - analysis
 ---
 
-## **쿠키런 킹덤 분석1**
+## **Part1. 개요, 게임구성과 시스템**
 
 ![image](https://user-images.githubusercontent.com/79121621/109123599-5ed45580-778d-11eb-895e-e49cd921e9cf.png)
 ### **1. 기본 정보**
