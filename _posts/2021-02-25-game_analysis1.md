@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "쿠키런:킹덤 - 게임분석1"
-excerpt: "게임분석 연습 - (개요, 게임구성과 시스템)"
+excerpt: "게임분석 연습 - 개요, 게임구성과 시스템"
 
 categories:
   - Game
