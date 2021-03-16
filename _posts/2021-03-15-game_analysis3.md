@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "쿠키런:킹덤 - 게임분석3(미완)"
+title: "쿠키런:킹덤 - 게임분석3"
 excerpt: "게임분석 연습 - 유료화"
 
 categories:
